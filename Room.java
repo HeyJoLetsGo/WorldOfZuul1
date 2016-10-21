@@ -26,7 +26,7 @@ public class Room
      */
     public Room(String description) 
     {
-        this.description = description;
+        this.description = description; //commentaire test
         hm = new HashMap();
     }
 
